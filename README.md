@@ -6,7 +6,7 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built u
 
 [![Watch the video]](https://drive.google.com/file/d/1OzfqMnHMuQlYtjXUC4SAA2XyscBS_Zou/view?usp=sharing)
 
-Click on the image above to watch the demo video.
+Click on the above link to watch the demo video.
 ## Features
 
 - Create new records in the database
@@ -24,7 +24,7 @@ Click on the image above to watch the demo video.
 3. Ensure you have Java and Maven installed on your system.
 4. Configure your IDE to use the JDK and Maven.
 5. Build the project using Maven: `mvn clean install`
-6. 
+
 ### 2. Firebase Setup
 
 1. Go to the [Firebase Console](https://console.firebase.google.com/) and create a new project.
