@@ -14,6 +14,6 @@ import java.util.Map;
 public class User {
     private String id;
     private String name;
-    private Map<String, Float> subjectMarks;
+    private Map<String, Integer> subjectMarks;
 
 }
